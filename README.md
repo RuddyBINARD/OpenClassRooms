@@ -1,2 +1,2 @@
 # OpenClassRooms
-Exercices html &amp; css openclassrooms
+Exercices html-css openclassrooms
